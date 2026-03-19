@@ -10,8 +10,6 @@ A short opening passage or epigraph. Replace this with your own framing, dedicat
 
 > The beginning is always today.
 
------
-
 ## First Section
 
 Replace this with the first major section of your document. This template uses standard Markdown with pandoc extensions. You can include tables, footnotes, code blocks, and other elements supported by pandoc.
@@ -20,13 +18,9 @@ Replace this with the first major section of your document. This template uses s
 
 Body text goes here. Paragraphs are separated by blank lines. *Italic* and **bold** work as expected.
 
------
-
 ## Second Section
 
 Continue with the next section. The pandoc build command converts this file to HTML using the included template.
-
------
 
 ## Third Section
 
