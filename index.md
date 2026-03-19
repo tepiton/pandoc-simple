@@ -1,9 +1,9 @@
 ---
-title: "Document Title"
-subtitle: "Subtitle or tagline"
-author: "Author Name"
-date: 2026-01-01
-description: "A brief description of this document and what it contains."
+title: "pandoc-simple"
+subtitle: "a mimeo template"
+author: "author name"
+date: 2026-03-19
+description: "A simple mimeo template"
 ---
 
 A short opening passage or epigraph. Replace this with your own framing, dedication, or introductory note.
